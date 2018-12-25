@@ -3,6 +3,7 @@ import doctest
 
 from tombola import Tombola
 
+
 # modules to test
 import bingo, lotto, tombolist, drum  # <1>
 
